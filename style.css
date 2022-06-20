@@ -8,6 +8,7 @@
     font-size: 40px;
     font-weight: bolder;
     color: rgb(227, 243, 255);
+
 }
 .setting input{
     padding: 15px 15px 15px 60px;
@@ -15,5 +16,15 @@
 #clipboard{
     padding: 0px;
     border: 0px;
+
    
+}
+#length{
+    border-style: dashed;
+    border-radius: 15px;
+
+}
+#generate{
+    border-style: dashed;
+    border-radius: 15px;
 }
